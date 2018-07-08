@@ -1,0 +1,1 @@
+We'll be using C++ on a Nutshell's book
